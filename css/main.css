@@ -1,4 +1,12 @@
 *{
     font-family: 'Courier New';
     text-align: center;
+<<<<<<< HEAD
+=======
+}
+img{
+    max-height: 300px;
+    max-width: 300px;
+    
+>>>>>>> f1d51f2e772b815a768fe84f1af7ffa829b30b9e
 }
