@@ -1,0 +1,141 @@
+.movie_01 {
+  content: url("filmes/chihiro.png");
+  width: 100%;
+  height: 50%;
+}
+.movie_02 {
+  content: url("filmes/alice.png");
+  width: 100%;
+}
+.movie_03 {
+  content: url("filmes/porcorusso.png");
+  width: 100%;
+}
+
+.movie_04 {
+  content: url("filmes/Aladdin.png");
+  width: 100%;
+
+}
+
+.movie_05 {
+  content: url("filmes/mononoke.png");
+  width: 100%;
+
+}
+
+.movie_06 {
+  content: url("filmes/pocahontas.png");
+  width: 100%;
+
+}
+
+.movie_07 {
+  content: url("filmes/moving\ catle.png");
+  width: 100%;
+
+}
+
+.movie_08 {
+  content: url("filmes/lady_and_the_tramp.png");
+  width: 100%;
+
+}
+
+.movie_09 {
+  content: url("filmes/laputa1.png");
+  width: 100%;
+
+}
+
+.movie_10 {
+  content: url("filmes/The_Lion_King.png");
+  width: 100%;
+}
+
+.movie_11 {
+  content: url("filmes/kiki.png");
+  width: 100%;
+}
+
+.movie_12 {
+  content: url("filmes/Bambi.png");
+  width: 100%;
+}
+
+.movie_13 {
+  content: url("filmes/ponyo.png");
+  width: 100%;
+}
+
+.movie_14 {
+  content: url("filmes/the-little-mermaid-logo.png");
+  width: 100%;
+}
+
+.movie_15 {
+  content: url("filmes/totoro.png");
+  width: 100%;
+}
+
+.movie_16 {
+  content: url("filmes/liloestitch.png");
+  width: 100%;
+}
+
+.default {
+  content: url("img/Fundo\ transparente.png");
+  width: 100%;
+  opacity: 0.5;
+  border-radius: 15px;
+}
+
+body{
+  width: 100%;
+  height: 100%;
+}
+#quarta_01,#quarta_02,#quarta_03, #quarta_04, #quarta_05, #quarta_06, #quarta_07, #quarta_08{
+  margin-top: 50%;
+
+} 
+#semi_01,#semi_03{
+  margin-top: 100%;
+
+} 
+
+#semi_02{
+  margin-top: 130%;
+  margin-bottom: 50%
+}
+
+#semi_04{
+margin-top: 130%;
+}
+
+#final_01{
+  margin-top: 180%;
+}
+
+#final_02{
+  margin-top: 280%;
+
+}
+ 
+#vencedor{
+  margin-top: 60%;
+}
+
+
+
+body{
+  background-image: url("img/back.png")
+}
+.octa{
+  padding-bottom: 7.5%;
+  padding-top: 7.5%;
+}
+
+body{
+background-image: url("img/download.jpeg")
+}
+
